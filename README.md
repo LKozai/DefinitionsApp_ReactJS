@@ -23,17 +23,17 @@ A responsive and user-friendly ReactJS web application that allows users to sear
 
 To run the project locally:
 
-1. **Clone the repository**:
+1. Clone the repository:
 
    **git clone https://github.com/your-username/definitions-app.git**
    
    **cd definitions-app**
    
-2. **Install dependencies**:
+2. Install dependencies:
   
    **npm install**
    
-3. **Start the development server**:
+3. Start the development server:
 
    **npm start**
 
@@ -86,8 +86,8 @@ The app uses the free and open [Dictionary API](https://dictionaryapi.dev/):
 
 ## Available Routes
 
-| Route           | Component           | Description                                        |
-|-----------------|---------------------|----------------------------------------------------|
-| `/`             | `InputComponent`    | Main page with word search functionality           |
-| `/registration` | `RegistrationForm`  | Sign-up form with field validation                 |
-| `/words`        | `WordsOfTheWeek`    | Displays a weekly list of vocabulary words         |
+| Route         |    Component      | Description                                        |
+|---------------|-----------------  |----------------------------------------------------|
+| /             | InputComponent    | Main page with word search functionality           |
+| /registration | RegistrationForm  | Sign-up form with field validation                 |
+| /words        | WordsOfTheWeek    | Displays a weekly list of vocabulary words         |
