@@ -25,17 +25,17 @@ To run the project locally:
 
 1. **Clone the repository**:
 
-   git clone https://github.com/your-username/definitions-app.git
+   **git clone https://github.com/your-username/definitions-app.git**
    
-   cd definitions-app
+   **cd definitions-app**
    
 2. **Install dependencies**:
   
-   npm install
+   **npm install**
    
 3. **Start the development server**:
 
-npm start
+   **npm start**
 
 4. Open your browser at **http://localhost:3000**.
 
