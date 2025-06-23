@@ -17,7 +17,7 @@ A responsive and user-friendly ReactJS web application that allows users to sear
 - JavaScript (ES6+)
 - Fetch API
 - Bootstrap
-- HTML5 / CSS3
+- HTML and CSS
 
 ## Installation
 
@@ -84,10 +84,3 @@ The app uses the free and open [Dictionary API](https://dictionaryapi.dev/):
 | `/`             | `InputComponent`    | Main page with word search functionality           |
 | `/registration` | `RegistrationForm`  | Sign-up form with field validation                 |
 | `/words`        | `WordsOfTheWeek`    | Displays a weekly list of vocabulary words         |
-
-## Future Improvements
-
-- Add support for synonyms, antonyms, and pronunciation
-- Persist search history or favorites using localStorage or backend
-- Improve UI with animations or transitions
-- Integrate email service to send actual word-of-the-day emails
