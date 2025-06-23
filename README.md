@@ -24,12 +24,20 @@ A responsive and user-friendly ReactJS web application that allows users to sear
 To run the project locally:
 
 1. **Clone the repository**:
-   git clone https://github.com/your-username/definitions-app.git
-   cd definitions-app
-3. **Install dependencies**: npm install
-4. **Start the development server**: npm start
 
-5. Open your browser at `http://localhost:3000`.
+   git clone https://github.com/your-username/definitions-app.git
+   
+   cd definitions-app
+   
+2. **Install dependencies**:
+  
+   npm install
+   
+3. **Start the development server**:
+
+npm start
+
+4. Open your browser at **http://localhost:3000**.
 
 ## Project Structure
 
