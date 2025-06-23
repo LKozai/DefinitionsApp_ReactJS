@@ -81,7 +81,7 @@ Definitions App/
 
 The app uses the free and open [Dictionary API](https://dictionaryapi.dev/):
 
-- Endpoint: `https://api.dictionaryapi.dev/api/v2/entries/en/{word}`
+- Endpoint: **https://api.dictionaryapi.dev/api/v2/entries/en/{word}**
 - No API key or authentication required.
 
 ## Available Routes
