@@ -44,29 +44,38 @@ To run the project locally:
 ## Project Structure
 
 ```
-definitions-app/
+Definitions App/
 ├── public/
-│   └── index.html
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
 ├── src/
-│   ├── components/
-│   │   ├── DefinitionComponent.js
-│   │   ├── InputComponent.js
-│   │   ├── RegistrationForm.js
-│   │   ├── RouteNav.js
-│   │   └── WordsOfTheWeek.js
 │   ├── css/
 │   │   ├── App.css
 │   │   ├── InputComponent.css
 │   │   ├── Nav.css
 │   │   ├── RegistrationForm.css
 │   │   ├── WordsOfTheWeek.css
+│   │   ├── index.css
 │   │   └── styles.css
 │   ├── images/
 │   │   └── shutterstock.jpg
 │   ├── App.js
+│   ├── App.test.js
+│   ├── DefinitionComponent.js
+│   ├── InputComponent.js
+│   ├── RegistrationForm.js
+│   ├── RouteNav.js
+│   ├── WordsOfTheWeek.js
 │   ├── index.js
-│   └── reportWebVitals.js
+│   ├── logo.svg
+│   ├── reportWebVitals.js
+│   └── setupTests.js
 ├── package.json
+├── package-lock.json
 └── README.md
 ```
 
